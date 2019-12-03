@@ -1,0 +1,360 @@
+﻿"INDICATOR","Indicator","LOCATION","Country","TIME","Time","Value","Flag Codes","Flags"
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","USA","United States of America","2011","2011",4,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","USA","United States of America","2012","2012",4,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","USA","United States of America","2013","2013",4,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","USA","United States of America","2014","2014",4,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","USA","United States of America","2015","2015",4,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","USA","United States of America","2017","2017",4,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","IND","India","2014","2014",2,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","IND","India","2015","2015",2,,
+"220000","Criteria used to classify a national feature film as having been produced in the reference year","NGA","Nigeria","2011","2011",2,,
+"220006","Total number of national feature films produced","USA","United States of America","2011","2011",819,,
+"220006","Total number of national feature films produced","USA","United States of America","2012","2012",738,,
+"220006","Total number of national feature films produced","USA","United States of America","2013","2013",738,,
+"220006","Total number of national feature films produced","USA","United States of America","2014","2014",649,,
+"220006","Total number of national feature films produced","USA","United States of America","2015","2015",663,,
+"220006","Total number of national feature films produced","USA","United States of America","2016","2016",656,,
+"220006","Total number of national feature films produced","USA","United States of America","2017","2017",660,,
+"220006","Total number of national feature films produced","CHN","China","2011","2011",584,,
+"220006","Total number of national feature films produced","CHN","China","2012","2012",745,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","CHN","China","2013","2013",638,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","CHN","China","2014","2014",618,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","CHN","China","2015","2015",686,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","CHN","China","2016","2016",853,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","CHN","China","2017","2017",874,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","IND","India","2011","2011",1255,,
+"220006","Total number of national feature films produced","IND","India","2012","2012",1602,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","IND","India","2013","2013",1724,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","IND","India","2014","2014",1868,,
+"220006","Total number of national feature films produced","IND","India","2015","2015",1907,,
+"220006","Total number of national feature films produced","IND","India","2016","2016",1986,"‡","UIS Estimation"
+"220006","Total number of national feature films produced","NGA","Nigeria","2011","2011",997,,
+"220160","Number of fictional feature films","USA","United States of America","2011","2011",798,,
+"220160","Number of fictional feature films","USA","United States of America","2012","2012",714,,
+"220160","Number of fictional feature films","USA","United States of America","2013","2013",727,,
+"220160","Number of fictional feature films","USA","United States of America","2014","2014",637,,
+"220160","Number of fictional feature films","USA","United States of America","2015","2015",657,,
+"220160","Number of fictional feature films","USA","United States of America","2016","2016",646,,
+"220160","Number of fictional feature films","USA","United States of America","2017","2017",660,,
+"220160","Number of fictional feature films","CHN","China","2011","2011",558,,
+"220160","Number of fictional feature films","CHN","China","2016","2016",772,"‡","UIS Estimation"
+"220160","Number of fictional feature films","CHN","China","2017","2017",798,"‡","UIS Estimation"
+"220161","Number of animated feature films","USA","United States of America","2011","2011",21,,
+"220161","Number of animated feature films","USA","United States of America","2012","2012",24,,
+"220161","Number of animated feature films","USA","United States of America","2013","2013",11,,
+"220161","Number of animated feature films","USA","United States of America","2014","2014",12,,
+"220161","Number of animated feature films","USA","United States of America","2015","2015",6,,
+"220161","Number of animated feature films","USA","United States of America","2016","2016",10,,
+"220161","Number of animated feature films","CHN","China","2016","2016",49,"‡","UIS Estimation"
+"220161","Number of animated feature films","CHN","China","2017","2017",32,"‡","UIS Estimation"
+"220162","Number of documentary feature films","CHN","China","2011","2011",26,,
+"220162","Number of documentary feature films","CHN","China","2016","2016",32,"‡","UIS Estimation"
+"220162","Number of documentary feature films","CHN","China","2017","2017",44,"‡","UIS Estimation"
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","CHN","China","2011","2011",95.5,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","CHN","China","2016","2016",90.5,"‡","UIS Estimation"
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","CHN","China","2017","2017",91.3,"‡","UIS Estimation"
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","CHN","China","2016","2016",5.7,"‡","UIS Estimation"
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","CHN","China","2017","2017",3.7,"‡","UIS Estimation"
+"FPFPROD_NADOC","Percentage of feature films produced that are documentaries ","CHN","China","2011","2011",4.5,,
+"FPFPROD_NADOC","Percentage of feature films produced that are documentaries ","CHN","China","2016","2016",3.8,"‡","UIS Estimation"
+"FPFPROD_NADOC","Percentage of feature films produced that are documentaries ","CHN","China","2017","2017",5,"‡","UIS Estimation"
+"220002","Number of feature films 100% nationally produced","USA","United States of America","2011","2011",724,,
+"220002","Number of feature films 100% nationally produced","USA","United States of America","2012","2012",623,,
+"220002","Number of feature films 100% nationally produced","USA","United States of America","2013","2013",644,,
+"220002","Number of feature films 100% nationally produced","USA","United States of America","2014","2014",545,,
+"220002","Number of feature films 100% nationally produced","USA","United States of America","2015","2015",543,,
+"220002","Number of feature films 100% nationally produced","USA","United States of America","2016","2016",523,,
+"220002","Number of feature films 100% nationally produced","IND","India","2014","2014",1868,,
+"220002","Number of feature films 100% nationally produced","IND","India","2015","2015",1907,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","IND","India","2014","2014",100,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","IND","India","2015","2015",100,,
+"220005","Number of internationally coproduced feature films","USA","United States of America","2011","2011",95,,
+"220005","Number of internationally coproduced feature films","USA","United States of America","2012","2012",115,,
+"220005","Number of internationally coproduced feature films","USA","United States of America","2013","2013",94,,
+"220005","Number of internationally coproduced feature films","USA","United States of America","2014","2014",104,,
+"220005","Number of internationally coproduced feature films","USA","United States of America","2015","2015",120,,
+"220005","Number of internationally coproduced feature films","USA","United States of America","2016","2016",133,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2011","2011",760,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2012","2012",827,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2013","2013",831,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2014","2014",707,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2015","2015",868,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2016","2016",857,,
+"220059","Total number of all feature films exhibited","USA","United States of America","2017","2017",916,,
+"220218","Total number of feature film exhibitors","NGA","Nigeria","2011","2011",5,,
+"220215","Number of national feature film exhibitors","NGA","Nigeria","2011","2011",5,,
+"220216","Number of foreign feature film exhibitors","NGA","Nigeria","2011","2011",,"n","Magnitude nil or negligible"
+"FPEX_NA","Percentage of feature film exhibitors that are national","NGA","Nigeria","2011","2011",100,,
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2011","2011",1283844500,,
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2012","2012",1357594457,,
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2013","2013",1343032195,,
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2014","2014",1215000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2015","2015",1197000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2016","2016",1315020712,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","USA","United States of America","2017","2017",1239742550,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2011","2011",370000000,,
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2012","2012",470000000,,
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2013","2013",612000000,,
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2014","2014",830000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2015","2015",1260000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2016","2016",1372000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","CHN","China","2017","2017",1620000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2011","2011",2640000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2012","2012",2641000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2013","2013",1978000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2014","2014",1937000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2015","2015",2016000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2016","2016",2020000000,"‡","UIS Estimation"
+"220063","Total number of admissions of all feature films exhibited","IND","India","2017","2017",1981000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2011","2011",10186115222,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2012","2012",10810779559,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2013","2013",10919716617,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2014","2014",9490081212,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2015","2015",11135401964,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2016","2016",11382596475,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","USA","United States of America","2017","2017",11118634681,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2011","2011",13115000000,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2012","2012",17072000000,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2013","2013",21769000000,,
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2014","2014",29640000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2015","2015",44092000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2016","2016",45712000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","CHN","China","2017","2017",55911000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2011","2011",68800000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2012","2012",85100000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2013","2013",93400000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2014","2014",93500000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2015","2015",101400000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2016","2016",99800000000,"‡","UIS Estimation"
+"220067","Total gross box office receipts of all feature films exhibited (in local currency)","IND","India","2017","2017",104280000000,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","USA","United States of America","2011","2011",4.54,,
+"FADMINH","Attendance frequency per capita","USA","United States of America","2012","2012",4.76,,
+"FADMINH","Attendance frequency per capita","USA","United States of America","2013","2013",4.7,,
+"FADMINH","Attendance frequency per capita","USA","United States of America","2014","2014",4.22,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","USA","United States of America","2015","2015",4.15,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","USA","United States of America","2016","2016",4.53,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","USA","United States of America","2017","2017",4.24,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","CHN","China","2011","2011",0.3,,
+"FADMINH","Attendance frequency per capita","CHN","China","2012","2012",0.37,,
+"FADMINH","Attendance frequency per capita","CHN","China","2013","2013",0.49,,
+"FADMINH","Attendance frequency per capita","CHN","China","2014","2014",0.66,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","CHN","China","2015","2015",0.98,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","CHN","China","2016","2016",1.06,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","CHN","China","2017","2017",1.25,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2011","2011",2.38,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2012","2012",2.34,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2013","2013",1.73,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2014","2014",1.67,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2015","2015",1.71,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2016","2016",1.69,"‡","UIS Estimation"
+"FADMINH","Attendance frequency per capita","IND","India","2017","2017",1.64,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2011","2011",7.9,,
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2012","2012",8,,
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2013","2013",8.1,,
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2014","2014",7.8,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2015","2015",9.3,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2016","2016",8.7,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","USA","United States of America","2017","2017",9,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","CHN","China","2011","2011",35.4,,
+"FBORADM","Average ticket price (in local currency)","CHN","China","2012","2012",36.3,,
+"FBORADM","Average ticket price (in local currency)","CHN","China","2013","2013",35.6,,
+"FBORADM","Average ticket price (in local currency)","CHN","China","2014","2014",35.7,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","CHN","China","2015","2015",35,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","CHN","China","2016","2016",33.3,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","CHN","China","2017","2017",34.5,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2011","2011",26.1,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2012","2012",32.2,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2013","2013",47.2,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2014","2014",48.3,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2015","2015",50.3,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2016","2016",49.4,"‡","UIS Estimation"
+"FBORADM","Average ticket price (in local currency)","IND","India","2017","2017",52.6,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2011","2011",32387,,
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2012","2012",34229,,
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2013","2013",33759,,
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2014","2014",30408,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2015","2015",29795,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2016","2016",32733,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","USA","United States of America","2017","2017",30692,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2011","2011",39845,,
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2012","2012",35829,,
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2013","2013",33636,,
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2014","2014",33730,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2015","2015",39839,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2016","2016",33318,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","CHN","China","2017","2017",31905,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2011","2011",263473,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2012","2012",237928,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2013","2013",178504,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2014","2014",174363,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2015","2015",181622,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2016","2016",180454,"‡","UIS Estimation"
+"FSIND_ADM","Admissions per indoor screen","IND","India","2017","2017",176733,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2011","2011",256959,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2012","2012",272573,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2013","2013",274482,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2014","2014",237513,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2015","2015",277179,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2016","2016",283332,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","USA","United States of America","2017","2017",275261,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2011","2011",1412341,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2012","2012",1301418,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2013","2013",1196428,,
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2014","2014",1204535,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2015","2015",1394125,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2016","2016",1110080,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","CHN","China","2017","2017",1101130,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2011","2011",6866267,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2012","2012",7666667,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2013","2013",8428842,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2014","2014",8416599,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2015","2015",9135135,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2016","2016",8915490,"‡","UIS Estimation"
+"FSIND_GBO","Gross box office per indoor screen (in local currency)","IND","India","2017","2017",9303238,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2011","2011",36,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2012","2012",37.9,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2013","2013",38.3,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2014","2014",33,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2015","2015",38.6,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2016","2016",39.2,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","USA","United States of America","2017","2017",38,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2011","2011",10.5,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2012","2012",13.6,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2013","2013",17.3,,
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2014","2014",23.4,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2015","2015",34.2,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2016","2016",35.4,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","CHN","China","2017","2017",43.1,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2011","2011",62,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2012","2012",75.5,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2013","2013",81.7,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2014","2014",80.6,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2015","2015",86.2,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2016","2016",83.7,"‡","UIS Estimation"
+"FEXP_PC","Cinema expenditure per capita (in local currency)","IND","India","2017","2017",86.4,"‡","UIS Estimation"
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2011","2011",97.4,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2012","2012",96.7,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2013","2013",98.5,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2014","2014",98.2,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2015","2015",99.1,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2016","2016",98.5,,
+"FPFPROD_NAFIC","Percentage of feature films produced that are fictional ","USA","United States of America","2017","2017",100,,
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","USA","United States of America","2011","2011",2.6,,
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","USA","United States of America","2012","2012",3.3,,
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","USA","United States of America","2013","2013",1.5,,
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","USA","United States of America","2014","2014",1.8,,
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","USA","United States of America","2015","2015",0.9,,
+"FPFPROD_NAANI","Percentage of feature films produced that are animated ","USA","United States of America","2016","2016",1.5,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","USA","United States of America","2011","2011",88.4,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","USA","United States of America","2012","2012",84.4,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","USA","United States of America","2013","2013",87.3,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","USA","United States of America","2014","2014",84,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","USA","United States of America","2015","2015",81.9,,
+"FPFPROD_NA100","Percentage of feature films that are 100% nationally produced","USA","United States of America","2016","2016",79.7,,
+"FPFPROD_NACP","Percentage of feature films that are internationally coproduced","USA","United States of America","2011","2011",11.6,,
+"FPFPROD_NACP","Percentage of feature films that are internationally coproduced","USA","United States of America","2012","2012",15.6,,
+"FPFPROD_NACP","Percentage of feature films that are internationally coproduced","USA","United States of America","2013","2013",12.7,,
+"FPFPROD_NACP","Percentage of feature films that are internationally coproduced","USA","United States of America","2014","2014",16,,
+"FPFPROD_NACP","Percentage of feature films that are internationally coproduced","USA","United States of America","2015","2015",18.1,,
+"FPFPROD_NACP","Percentage of feature films that are internationally coproduced","USA","United States of America","2016","2016",20.3,,
+"220222","Number of all national feature films exhibited","NGA","Nigeria","2011","2011",27,,
+"220233","Total number of first-time release feature films","USA","United States of America","2011","2011",610,,
+"220233","Total number of first-time release feature films","USA","United States of America","2012","2012",677,,
+"220233","Total number of first-time release feature films","USA","United States of America","2013","2013",659,,
+"220233","Total number of first-time release feature films","USA","United States of America","2016","2016",718,,
+"220233","Total number of first-time release feature films","USA","United States of America","2017","2017",777,,
+"220230","Number of national first-time release feature films","NGA","Nigeria","2011","2011",27,,
+"FPEXH_REL1","Percentage of all feature films exhibited that are first-time release","USA","United States of America","2011","2011",80.3,,
+"FPEXH_REL1","Percentage of all feature films exhibited that are first-time release","USA","United States of America","2012","2012",81.9,,
+"FPEXH_REL1","Percentage of all feature films exhibited that are first-time release","USA","United States of America","2013","2013",79.3,,
+"FPEXH_REL1","Percentage of all feature films exhibited that are first-time release","USA","United States of America","2016","2016",83.8,,
+"FPEXH_REL1","Percentage of all feature films exhibited that are first-time release","USA","United States of America","2017","2017",84.8,,
+"220218","Total number of feature film exhibitors","USA","United States of America","2012","2012",12,,
+"220218","Total number of feature film exhibitors","USA","United States of America","2013","2013",10,,
+"220062","Number of admissions for all foreign feature films exhibited","USA","United States of America","2014","2014",60750000,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","USA","United States of America","2015","2015",134064000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","USA","United States of America","2014","2014",474504061,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","USA","United States of America","2015","2015",1247165020,"‡","UIS Estimation"
+"FPFPROD_NADIG","Percentage of national feature films that are shot digitally ","IND","India","2012","2012",45.1,"‡","UIS Estimation"
+"FPFPROD_NADIG","Percentage of national feature films that are shot digitally ","IND","India","2013","2013",56.8,"‡","UIS Estimation"
+"FPFPROD_NADIG","Percentage of national feature films that are shot digitally ","IND","India","2014","2014",99,,
+"FPFPROD_NADIG","Percentage of national feature films that are shot digitally ","IND","India","2015","2015",99.9,,
+"FPFPROD_NADIG","Percentage of national feature films that are shot digitally ","IND","India","2016","2016",100,"‡","UIS Estimation"
+"220171","Number of national feature films not shot digitally ","IND","India","2012","2012",880,"‡","UIS Estimation"
+"220171","Number of national feature films not shot digitally ","IND","India","2013","2013",744,"‡","UIS Estimation"
+"220171","Number of national feature films not shot digitally ","IND","India","2014","2014",18,,
+"220171","Number of national feature films not shot digitally ","IND","India","2015","2015",1,,
+"220171","Number of national feature films not shot digitally ","IND","India","2016","2016",,"‡; n","UIS Estimation; Magnitude nil or negligible"
+"220170","Number of national feature films shot digitally","IND","India","2012","2012",722,"‡","UIS Estimation"
+"220170","Number of national feature films shot digitally","IND","India","2013","2013",980,"‡","UIS Estimation"
+"220170","Number of national feature films shot digitally","IND","India","2014","2014",1850,,
+"220170","Number of national feature films shot digitally","IND","India","2015","2015",1906,,
+"220170","Number of national feature films shot digitally","IND","India","2016","2016",1986,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","CHN","China","2011","2011",171680000,,
+"220062","Number of admissions for all foreign feature films exhibited","CHN","China","2012","2012",242050000,,
+"220062","Number of admissions for all foreign feature films exhibited","CHN","China","2013","2013",252756000,,
+"220062","Number of admissions for all foreign feature films exhibited","CHN","China","2014","2014",377650000,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","CHN","China","2015","2015",483840000,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","IND","India","2012","2012",224485000,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","IND","India","2013","2013",168130000,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","IND","India","2014","2014",164645000,"‡","UIS Estimation"
+"220062","Number of admissions for all foreign feature films exhibited","IND","India","2015","2015",302400000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","USA","United States of America","2014","2014",9015577151,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","USA","United States of America","2015","2015",9888236944,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2011","2011",7029640000,,
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2012","2012",8279920000,,
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2013","2013",12778403000,,
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2014","2014",16153800000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2015","2015",27160672000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2016","2016",26663000000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","CHN","China","2017","2017",30104000000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","IND","India","2012","2012",77866500000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","IND","India","2013","2013",85461000000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","IND","India","2014","2014",85552500000,"‡","UIS Estimation"
+"220224","Gross box office receipts for all national feature films (in local currency)","IND","India","2015","2015",86190000000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2011","2011",6085360000,,
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2012","2012",8792080000,,
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2013","2013",8990597000,,
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2014","2014",13486200000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2015","2015",16931328000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2016","2016",19049000000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","CHN","China","2017","2017",25807000000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","IND","India","2012","2012",7233500000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","IND","India","2013","2013",7939000000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","IND","India","2014","2014",7947500000,"‡","UIS Estimation"
+"220066","Gross box office receipts for all foreign feature films (in local currency)","IND","India","2015","2015",15210000000,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","USA","United States of America","2014","2014",95,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","USA","United States of America","2015","2015",88.8,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2011","2011",53.6,,
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2012","2012",48.5,,
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2013","2013",58.7,,
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2014","2014",54.5,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2015","2015",61.6,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2016","2016",58.3,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","CHN","China","2017","2017",53.8,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","IND","India","2012","2012",91.5,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","IND","India","2013","2013",91.5,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","IND","India","2014","2014",91.5,"‡","UIS Estimation"
+"FPGBO_NA","Percentage of GBO of all films feature exhibited that are national ","IND","India","2015","2015",85,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","USA","United States of America","2014","2014",1154250000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","USA","United States of America","2015","2015",1062936000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","CHN","China","2011","2011",198320000,,
+"220223","Number of admissions for all national feature films exhibited","CHN","China","2012","2012",227950000,,
+"220223","Number of admissions for all national feature films exhibited","CHN","China","2013","2013",359244000,,
+"220223","Number of admissions for all national feature films exhibited","CHN","China","2014","2014",452350000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","CHN","China","2015","2015",776160000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","IND","India","2012","2012",2416515000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","IND","India","2013","2013",1809870000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","IND","India","2014","2014",1772355000,"‡","UIS Estimation"
+"220223","Number of admissions for all national feature films exhibited","IND","India","2015","2015",1713600000,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","USA","United States of America","2014","2014",95,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","USA","United States of America","2015","2015",88.8,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","CHN","China","2011","2011",53.6,,
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","CHN","China","2012","2012",48.5,,
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","CHN","China","2013","2013",58.7,,
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","CHN","China","2014","2014",54.5,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","CHN","China","2015","2015",61.6,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","IND","India","2012","2012",91.5,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","IND","India","2013","2013",91.5,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","IND","India","2014","2014",91.5,"‡","UIS Estimation"
+"FPADM_NA","Percentage of admissions for all films exhibited that are national","IND","India","2015","2015",85,"‡","UIS Estimation"
