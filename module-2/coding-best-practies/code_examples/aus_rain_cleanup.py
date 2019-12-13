@@ -59,7 +59,7 @@ def transform_yes_no_col_to_binary(df, col_name):
     return df
 
 
-def cleanup(df):
+def cleanup(df):us_rain_cleanup.py
 	df = df.drop('RISK_MM', axis=1)
 	df['Date'] = transform_string_to_date(df['Date'])
 	df = extract_year_mon_day_cols_from_date_col(df)
